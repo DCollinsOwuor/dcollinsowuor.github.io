@@ -5,7 +5,7 @@
     <link>https://dcollinsowuor.com/</link>
       <atom:link href="https://dcollinsowuor.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. D. Collins Owuor</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 03:44:43 +0300</lastBuildDate>
     <image>
       <url>https://dcollinsowuor.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Dr. D. Collins Owuor</title>
@@ -89,14 +89,6 @@
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://dcollinsowuor.com/home-unused/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dcollinsowuor.com/home-unused/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Meet the Team</title>
       <link>https://dcollinsowuor.com/home-unused/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -126,6 +118,36 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dcollinsowuor.com/home-unused/tags/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Gitpod 101</title>
+      <link>https://dcollinsowuor.com/post/gitpod/</link>
+      <pubDate>Wed, 04 Jan 2023 03:44:43 +0300</pubDate>
+      <guid>https://dcollinsowuor.com/post/gitpod/</guid>
+      <description>&lt;p&gt;Then edit the newly created file &lt;strong&gt;content/post/my-article-name.md&lt;/strong&gt; with your full title and content.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Hugo will automatically
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;1-generate-summaries&#34;&gt;1. Generate summaries&lt;/h3&gt;
+&lt;p&gt;Generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing in the article body, or completely override the automated summary by adding a summary parameter to the front matter.&lt;/p&gt;
+&lt;h3 id=&#34;2-resolve&#34;&gt;2. Resolve&lt;/h3&gt;
+&lt;p&gt;Completely override the automated summary by adding a summary parameter to the front matter.&lt;/p&gt;
+&lt;p&gt;Then edit the newly created file &lt;strong&gt;content/post/my-article-name.md&lt;/strong&gt; with your full title and content.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Hugo will automatically
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;1-generate-summaries-1&#34;&gt;1. Generate summaries&lt;/h3&gt;
+&lt;p&gt;Generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing in the article body, or completely override the automated summary by adding a summary parameter to the front matter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/file1.jpg&#34; alt=&#34;Image alt&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-resolve-1&#34;&gt;2. Resolve&lt;/h3&gt;
+&lt;p&gt;Completely override the automated summary by adding a summary parameter to the front matter.&lt;/p&gt;
+&lt;p&gt;Then edit the newly created file &lt;strong&gt;content/post/my-article-name.md&lt;/strong&gt; with your full title and content.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Hugo will automatically
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;1-generate-summaries-2&#34;&gt;1. Generate summaries&lt;/h3&gt;
+&lt;p&gt;Generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing in the article body, or completely override the automated summary by adding a summary parameter to the front matter.&lt;/p&gt;
+&lt;h3 id=&#34;2-resolve-2&#34;&gt;2. Resolve&lt;/h3&gt;
+&lt;p&gt;Completely override the automated summary by adding a summary parameter to the front matter.&lt;/p&gt;
+</description>
     </item>
     
     <item>

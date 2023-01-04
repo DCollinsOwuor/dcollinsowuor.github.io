@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Dr. D. Collins Owuor</title>
-    <link>https://dcollinsowuor.com/post/</link>
-      <atom:link href="https://dcollinsowuor.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>GitPod | Dr. D. Collins Owuor</title>
+    <link>https://dcollinsowuor.com/tag/gitpod/</link>
+      <atom:link href="https://dcollinsowuor.com/tag/gitpod/index.xml" rel="self" type="application/rss+xml" />
+    <description>GitPod</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 03:44:43 +0300</lastBuildDate>
     <image>
       <url>https://dcollinsowuor.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://dcollinsowuor.com/post/</link>
+      <title>GitPod</title>
+      <link>https://dcollinsowuor.com/tag/gitpod/</link>
     </image>
     
     <item>
